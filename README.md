@@ -17,4 +17,4 @@ Visualization Tools: Matplotlib, Seaborn, Power BI
 Other Tools: Excel, Git
 
 Contact
-Let's connect! Feel free to reach out to me via  or akankshatayade5@gmail.com.
+Let's connect! Feel free to reach out to me via https://www.linkedin.com/in/akanksha-tayade or akankshatayade5@gmail.com.
